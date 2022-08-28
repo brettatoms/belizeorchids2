@@ -1,7 +1,7 @@
 all: belizeorchids/templates/index.html
 
 belizeorchids/static/style.css: node_modules tailwind.config.js
-	npx tailwindcss -i ./belizeorchids/input.css -o ./belizeorchids/static/style.css
+	npx tailwindcss -i ./belizeorchids/input.css -o ./belizeorchids/static/style.css --minify
 
 belizeorchids/templates/index.html: belizeorchids/static/style.css
 
