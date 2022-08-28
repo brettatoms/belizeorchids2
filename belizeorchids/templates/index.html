@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="">
+<html class="no-js" lang="" class="h-full">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -9,9 +9,10 @@
     "width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <!-- Place favicon.ico in the root directory -->
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
 </head>
-<body>
+<body class="h-full m-4">
     <!--[if lt IE 8]>
             <p class="browserupgrade">
             You are using an <strong>outdated</strong> browser. Please
@@ -20,18 +21,33 @@
             </p>
         <![endif]-->
 
-    <form>
-        <input name="q" type="search">
+    <h1 class="text-2xl mb-4">Orchids of Belize</h1>
+
+    <form class="mb-4">
+        <input name="q" type="search" placeholder="Search...">
     </form>
 
     {% for orchid in orchids %}
-        <div>
-            <div>{{ orchid['name'] }}</div>
-            <div>
+        <div x-data="{expanded: false}"
+             x-cloak
+             class="mb-4">
+            <button x-on:click="expanded = !expanded"
+                    class="flex hover:underline">
+                <span class="mr-2">{{ orchid['name'] }}</span>
+                {% if orchid['images'] | length %}
+                    <img src="{{ url_for('static', filename='heroicons/camera-mini.svg') }}"
+                         class="inline"
+                         width=20
+                         height=20>
+                {% endif %}
+            </button>
+            <div x-show="expanded"
+                 class="flex flex-row">
                 {% for url in orchid['images'] %}
                     <div>
-                        <img src="{{thumb_root}}{{url}}">
-                        <!-- <a href="{{url}}">{{url}}</a> -->
+                        <img src="{{thumb_root}}{{url}}"
+                             loading="lazy"
+                             class="p-2">
                     </div>
                 {% endfor %}
             </div>

@@ -1,9 +1,7 @@
-all: belizeorchids/templates/index.html
+all: belizeorchids/templates/index.html belizeorchids/static/style.css
 
-belizeorchids/static/style.css: node_modules tailwind.config.js
+belizeorchids/static/style.css: node_modules tailwind.config.js ./belizeorchids/input.css belizeorchids/templates/index.html
 	npx tailwindcss -i ./belizeorchids/input.css -o ./belizeorchids/static/style.css --minify
-
-belizeorchids/templates/index.html: belizeorchids/static/style.css
 
 node_modules: package-lock.json
 	npm install -D tailwindcss
