@@ -17,3 +17,9 @@ pip install -r requirements.txt
 ```sh
 gunicorn belizeorchids.app:app
 ```
+
+### Build
+
+```sh
+make
+```
