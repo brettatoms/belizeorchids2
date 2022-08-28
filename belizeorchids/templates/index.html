@@ -9,10 +9,11 @@
     "width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <!-- Place favicon.ico in the root directory -->
-    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body class="h-full m-4">
+<body class="h-full m-4"
+      x-cloak>
     <!--[if lt IE 8]>
             <p class="browserupgrade">
             You are using an <strong>outdated</strong> browser. Please
@@ -29,7 +30,6 @@
 
     {% for orchid in orchids %}
         <div x-data="{expanded: false}"
-             x-cloak
              class="mb-4">
             <button x-on:click="expanded = !expanded"
                     class="flex hover:underline">
