@@ -42,12 +42,11 @@
             </button>
             <div x-show="expanded"
                  x-cloak
-                 class="flex flex-row">
+                 class="mt-4 bg-slate-100 sm:p-4 lg:p-12 rounded flex flex-wrap">
                 {% for url in orchid['images'] %}
-                    <div>
+                    <div class="drop-shadow-lg m-4">
                         <img src="{{thumb_root}}{{url}}"
-                             loading="lazy"
-                             class="p-2">
+                             loading="lazy">
                     </div>
                 {% endfor %}
             </div>
