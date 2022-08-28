@@ -10,5 +10,5 @@
   "devDependencies": {},
   "scripts": {},
   "author": "Brett Adams <brettadams@fastmail.com>",
-  "license": "LGPL"
+  "license": "AGPL-3.0-only"
 }
