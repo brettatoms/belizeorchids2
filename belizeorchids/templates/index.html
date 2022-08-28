@@ -12,8 +12,7 @@
     <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
     <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body class="h-full m-4"
-      x-cloak>
+<body class="h-full m-4">
     <!--[if lt IE 8]>
             <p class="browserupgrade">
             You are using an <strong>outdated</strong> browser. Please
@@ -42,6 +41,7 @@
                 {% endif %}
             </button>
             <div x-show="expanded"
+                 x-cloak
                  class="flex flex-row">
                 {% for url in orchid['images'] %}
                     <div>
