@@ -46,6 +46,7 @@
                 {% for url in orchid['images'] %}
                     <div class="drop-shadow-lg m-4">
                         <img src="{{thumb_root}}{{url}}"
+                             alt="{{orchid['name']}}"
                              loading="lazy">
                     </div>
                 {% endfor %}
