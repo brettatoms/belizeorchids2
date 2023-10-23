@@ -30,15 +30,18 @@
     {% for orchid in orchids %}
         <div x-data="{expanded: false}"
              class="mb-4">
+            {% if orchid['images'] | length %}
             <button x-on:click="expanded = !expanded"
                     class="flex hover:underline">
                 <span class="mr-2">{{ orchid['name'] }}</span>
-                {% if orchid['images'] | length %}
                     <img src="{{ url_for('static', filename='heroicons/camera-mini.svg') }}"
                          class="inline"
                          width=20
                          height=20>
-                {% endif %}
+
+            {% else %}
+                    <span class="mr-2">{{ orchid['name'] }}</span>
+            {% endif %}
             </button>
             <div x-show="expanded"
                  x-cloak
