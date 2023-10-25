@@ -2,8 +2,12 @@ import json
 import re
 
 from flask import Flask, g, request, render_template
+from flask_static_digest import FlaskStaticDigest
 
 app = Flask(__name__.split(".")[0])
+
+flask_static_digest = FlaskStaticDigest()
+flask_static_digest.init_app(app)
 
 image_root = "https://s3.amazonaws.com/belizeorchids.com/images/orchids/"
 thumb_root = image_root + "256x192/"

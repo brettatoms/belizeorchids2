@@ -9,7 +9,8 @@
     "width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <!-- Place favicon.ico in the root directory -->
-    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+
+    <link href="{{ static_url_for('static', filename='style.css') }}" rel="stylesheet">
     <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body class="h-full m-4">
