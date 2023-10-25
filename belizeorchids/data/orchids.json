@@ -3,11 +3,13 @@
         "images": [
             "arpophyllum_giganteum-5.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276540",
+        "ipni_id": "urn:lsid:ipni.org:names:320418-2"
     },
     "Beloglottis costaricensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000323653",
+        "ipni_id": "urn:lsid:ipni.org:names:31124-2"
     },
     "Bletia purpurea": {
         "images": [
@@ -17,11 +19,13 @@
             "bletia_purpurea-5.jpg",
             "bletia_purpurea-6.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000345854",
+        "ipni_id": "urn:lsid:ipni.org:names:1218040-2"
     },
     "Brassavola acaulis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000399961",
+        "ipni_id": "urn:lsid:ipni.org:names:618019-1"
     },
     "Brassavola cucullata": {
         "images": [
@@ -29,42 +33,51 @@
             "brassavola_cucullata-4.jpg",
             "brassavola_cucullata-6.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000400321",
+        "ipni_id": "urn:lsid:ipni.org:names:618026-1"
     },
     "Brassavola nodosa": {
         "images": [
             "brassavola_nodosa-3.jpg",
             "brassavola_nodosa-5.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000401476",
+        "ipni_id": "urn:lsid:ipni.org:names:618047-1"
     },
     "Brassavola nodosa var. grandiflora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000401536",
+        "ipni_id": "urn:lsid:ipni.org:names:36148-2"
     },
     "Brassia caudata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000404026",
+        "ipni_id": "urn:lsid:ipni.org:names:1161131-2"
     },
     "Brassia maculata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000406308",
+        "ipni_id": "urn:lsid:ipni.org:names:618125-1"
     },
     "Bulbophyllum aristatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000458160",
+        "ipni_id": "urn:lsid:ipni.org:names:1124816-2"
     },
     "Bulbophyllum oerstedii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000569666",
+        "ipni_id": "urn:lsid:ipni.org:names:1086688-2"
     },
     "Campylocentrum fasciola": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000794730",
+        "ipni_id": "urn:lsid:ipni.org:names:44202-2"
     },
     "Campylocentrum hondurense": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000794835",
+        "ipni_id": "urn:lsid:ipni.org:names:44210-2"
     },
     "Campylocentrum micranthum": {
         "images": [
@@ -73,22 +86,24 @@
             "campylocentrum_micranthum-4.jpg",
             "campylocentrum_micranthum-4.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000795026",
+        "ipni_id": "urn:lsid:ipni.org:names:621710-1"
     },
     "Campylocentrum poepigii": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Campylocentrum schiedei": {
         "images": [
             "campylocentrum_schiedei-1.jpg",
             "campylocentrum_schiedei-3.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000795294",
+        "ipni_id": "urn:lsid:ipni.org:names:621691-1"
     },
     "Campylocentrum tyrridion": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000795411",
+        "ipni_id": "urn:lsid:ipni.org:names:44260-2"
     },
     "Catasetum integerrimum": {
         "images": [
@@ -97,7 +112,8 @@
             "catasetum_integerrimum-8.jpg",
             "catasetum_integerrimum-9.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000817102",
+        "ipni_id": "urn:lsid:ipni.org:names:323032-2"
     },
     "Cattleya bowringiana": {
         "images": [
@@ -105,27 +121,33 @@
             "cattleya_bowringiana-2.jpg",
             "cattleya_bowringiana-7.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000820627",
+        "ipni_id": "urn:lsid:ipni.org:names:327462-2"
     },
     "Cattleya skinneri": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000823493",
+        "ipni_id": "urn:lsid:ipni.org:names:327463-2"
     },
     "Caularthron bilamellatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000824657",
+        "ipni_id": "urn:lsid:ipni.org:names:50359-2"
     },
     "Chysis bractescens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000858422",
+        "ipni_id": "urn:lsid:ipni.org:names:623112-1"
     },
     "Clowesia russelliana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000894997",
+        "ipni_id": "urn:lsid:ipni.org:names:61366-2"
     },
     "Cochleanthes flabelliformis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000901860",
+        "ipni_id": "urn:lsid:ipni.org:names:62452-2"
     },
     "Coelia bella": {
         "images": [
@@ -134,11 +156,11 @@
             "coelia_bella-9.jpg",
             "coelia_bella-13.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000905761",
+        "ipni_id": "urn:lsid:ipni.org:names:623709-1"
     },
     "Comparetia falcata": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Coryanthes speciosa": {
         "images": [
@@ -147,51 +169,59 @@
             "coryanthes_speciosa-8.jpg",
             "coryanthes_speciosa-10.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000925010",
+        "ipni_id": "urn:lsid:ipni.org:names:624318-1"
     },
     "Corymborkis flava": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000925746",
+        "ipni_id": "urn:lsid:ipni.org:names:66441-2"
     },
     "Corymborkis forcipigera": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000925748",
+        "ipni_id": "urn:lsid:ipni.org:names:66442-2"
     },
     "Cranichis muscosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000926594",
+        "ipni_id": "urn:lsid:ipni.org:names:624587-1"
     },
     "Cranichis sylvatica": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000926667",
+        "ipni_id": "urn:lsid:ipni.org:names:624622-1"
     },
     "Cryptarrhena guatemalensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000933089",
+        "ipni_id": "urn:lsid:ipni.org:names:71668-2"
     },
     "Cryptharhena lunata": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Cyclopogon comosus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000933943",
+        "ipni_id": "urn:lsid:ipni.org:names:942900-1"
     },
     "Cyclopogon cranichoides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000933946",
+        "ipni_id": "urn:lsid:ipni.org:names:73681-2"
     },
     "Cyclopogon elatus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000933955",
+        "ipni_id": "urn:lsid:ipni.org:names:73688-2"
     },
     "Cyclopogon prasophyllum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001419215",
+        "ipni_id": "urn:lsid:ipni.org:names:1207000-2"
     },
     "Cyclopogon sp": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Cycnoches egertonianum": {
         "images": [
@@ -200,11 +230,13 @@
             "cycnoches_egertonianum-3.jpg",
             "cycnoches_egertonianum-4.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000934180",
+        "ipni_id": "urn:lsid:ipni.org:names:624887-1"
     },
     "Cycnoches glanduliferum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001088240",
+        "ipni_id": ""
     },
     "Cycnoches ventricosum": {
         "images": [
@@ -214,75 +246,93 @@
             "cycnoches_ventricosum-8.jpg",
             "cycnoches_ventricosum-9.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000934213",
+        "ipni_id": "urn:lsid:ipni.org:names:624909-1"
     },
     "Cyrtopodium punctatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000936108",
+        "ipni_id": "urn:lsid:ipni.org:names:1147853-2"
     },
     "Dichaea brachypoda": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942791",
+        "ipni_id": "urn:lsid:ipni.org:names:629582-1"
     },
     "Dichaea glauca": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942827",
+        "ipni_id": "urn:lsid:ipni.org:names:629603-1"
     },
     "Dichaea graminoides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942831",
+        "ipni_id": "urn:lsid:ipni.org:names:629607-1"
     },
     "Dichaea hystricina": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942840",
+        "ipni_id": "urn:lsid:ipni.org:names:629612-1"
     },
     "Dichaea muricata var. neglecta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942867",
+        "ipni_id": "urn:lsid:ipni.org:names:79280-2"
     },
     "Dichaea muricatoides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942868",
+        "ipni_id": "urn:lsid:ipni.org:names:79281-2"
     },
     "Dichaea panamensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942876",
+        "ipni_id": "urn:lsid:ipni.org:names:629640-1"
     },
     "Dichaea trulla": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942916",
+        "ipni_id": "urn:lsid:ipni.org:names:629667-1"
     },
     "Dichaea tuerckheimii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000942918",
+        "ipni_id": "urn:lsid:ipni.org:names:77239672-1"
     },
     "Dimerandra emarginata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000943457",
+        "ipni_id": "urn:lsid:ipni.org:names:80388-2"
     },
     "Dresslerella powellii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000945787",
+        "ipni_id": "urn:lsid:ipni.org:names:84082-2"
     },
     "Dryadella linearifolia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000946270",
+        "ipni_id": "urn:lsid:ipni.org:names:84215-2"
     },
     "Elleanthus caricoides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948192",
+        "ipni_id": "urn:lsid:ipni.org:names:89985-2"
     },
     "Elleanthus cynarocephalus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948211",
+        "ipni_id": "urn:lsid:ipni.org:names:630733-1"
     },
     "Elleanthus linifolius": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948256",
+        "ipni_id": "urn:lsid:ipni.org:names:630770-1"
     },
     "Encyclia adenocarpon": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001088588",
+        "ipni_id": "urn:lsid:ipni.org:names:90668-2"
     },
     "Encyclia alata subsp. alata": {
         "images": [
@@ -290,19 +340,23 @@
             "encyclia_alata_subsp_alata-5.jpg",
             "encyclia_alata_subsp_alata-7.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948583",
+        "ipni_id": "urn:lsid:ipni.org:names:77168227-1"
     },
     "Encyclia alata subsp. virella": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948585",
+        "ipni_id": "urn:lsid:ipni.org:names:90677-2"
     },
     "Encyclia amanda": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948594",
+        "ipni_id": "urn:lsid:ipni.org:names:90684-2"
     },
     "Encyclia ambigua": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948596",
+        "ipni_id": "urn:lsid:ipni.org:names:90685-2"
     },
     "Encyclia asperula": {
         "images": [
@@ -315,15 +369,16 @@
             "encyclia_asperula-lip-4.jpg",
             "encyclia_asperula-lip-6.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948608",
+        "ipni_id": "urn:lsid:ipni.org:names:90694-2"
     },
     "Encyclia baculus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948615",
+        "ipni_id": "urn:lsid:ipni.org:names:90700-2"
     },
     "Encyclia boothiana subsp. boothiana": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Encyclia bractescens": {
         "images": [
@@ -332,7 +387,8 @@
             "encyclia_bractescens-6.jpg",
             "encyclia_bractescens-7.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948637",
+        "ipni_id": "urn:lsid:ipni.org:names:90713-2"
     },
     "Encyclia chacaoensis": {
         "images": [
@@ -342,66 +398,79 @@
             "encyclia_chacaoensis-7.jpg",
             "encyclia_chacaoensis-8.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948657",
+        "ipni_id": "urn:lsid:ipni.org:names:90727-2"
     },
     "Encyclia chloroleuca": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948663",
+        "ipni_id": "urn:lsid:ipni.org:names:630903-1"
     },
     "Encyclia cochleata": {
         "images": [
             "encyclia_cochleata-1_2.jpg",
             "encyclia_cochleata-2.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948668",
+        "ipni_id": "urn:lsid:ipni.org:names:90732-2"
     },
     "Encyclia cordigera": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948679",
+        "ipni_id": "urn:lsid:ipni.org:names:90737-2"
     },
     "Encyclia crassilabia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001223511",
+        "ipni_id": "urn:lsid:ipni.org:names:630913-1"
     },
     "Encyclia davidhuntii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948687",
+        "ipni_id": "urn:lsid:ipni.org:names:20000993-1"
     },
     "Encyclia dickensoniana": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Encyclia distantiflora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948695",
+        "ipni_id": "urn:lsid:ipni.org:names:90747-2"
     },
     "Encyclia guatemalensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948742",
+        "ipni_id": "urn:lsid:ipni.org:names:90774-2"
     },
     "Encyclia livida": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948796",
+        "ipni_id": "urn:lsid:ipni.org:names:90806-2"
     },
     "Encyclia michuacana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948820",
+        "ipni_id": "urn:lsid:ipni.org:names:90819-2"
     },
     "Encyclia neurosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948834",
+        "ipni_id": "urn:lsid:ipni.org:names:90829-2"
     },
     "Encyclia polybulbon": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948887",
+        "ipni_id": "urn:lsid:ipni.org:names:90863-2"
     },
     "Encyclia porrecta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948890",
+        "ipni_id": "urn:lsid:ipni.org:names:276543-2"
     },
     "Encyclia pygmaea": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948903",
+        "ipni_id": "urn:lsid:ipni.org:names:90874-2"
     },
     "Encyclia radiata": {
         "images": [
@@ -409,11 +478,13 @@
             "encyclia_radiata-3.jpg",
             "encyclia_radiata-5.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000948906",
+        "ipni_id": "urn:lsid:ipni.org:names:90876-2"
     },
     "Epidanthus paranthicus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949308",
+        "ipni_id": "urn:lsid:ipni.org:names:91193-2"
     },
     "Epidendrum acunae": {
         "images": [
@@ -422,97 +493,118 @@
             "epidendrum_acunae-4.jpg",
             "epidendrum_acunae-8.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949334",
+        "ipni_id": "urn:lsid:ipni.org:names:91204-2"
     },
     "Epidendrum anceps": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949437",
+        "ipni_id": "urn:lsid:ipni.org:names:631327-1"
     },
     "Epidendrum ciliare": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949799",
+        "ipni_id": "urn:lsid:ipni.org:names:631578-1"
     },
     "Epidendrum clowesii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949814",
+        "ipni_id": "urn:lsid:ipni.org:names:631591-1"
     },
     "Epidendrum cristatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949911",
+        "ipni_id": "urn:lsid:ipni.org:names:631665-1"
     },
     "Epidendrum cystosum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949952",
+        "ipni_id": "urn:lsid:ipni.org:names:91471-2"
     },
     "Epidendrum difforme": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949985",
+        "ipni_id": "urn:lsid:ipni.org:names:91483-2"
     },
     "Epidendrum diffusum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000949986",
+        "ipni_id": "urn:lsid:ipni.org:names:91487-2"
     },
     "Epidendrum hawkesii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000950313",
+        "ipni_id": "urn:lsid:ipni.org:names:91643-2"
     },
     "Epidendrum imatophyllum": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Epidendrum isomerum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000950424",
+        "ipni_id": "urn:lsid:ipni.org:names:91696-2"
     },
     "Epidendrum macroclinium": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000950624",
+        "ipni_id": "urn:lsid:ipni.org:names:932602-1"
     },
     "Epidendrum martinezii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000950671",
+        "ipni_id": "urn:lsid:ipni.org:names:1020903-1"
     },
     "Epidendrum nitens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000950826",
+        "ipni_id": "urn:lsid:ipni.org:names:632335-1"
     },
     "Epidendrum nocturnum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000950829",
+        "ipni_id": "urn:lsid:ipni.org:names:30010607-2"
     },
     "Epidendrum paniculatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000950969",
+        "ipni_id": "urn:lsid:ipni.org:names:91948-2"
     },
     "Epidendrum phragmites": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951038",
+        "ipni_id": "urn:lsid:ipni.org:names:91989-2"
     },
     "Epidendrum polyanthum": {
         "images": [
             "epidendrum_polyanthum-1.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951087",
+        "ipni_id": "urn:lsid:ipni.org:names:632520-1"
     },
     "Epidendrum ramosum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951218",
+        "ipni_id": "urn:lsid:ipni.org:names:92076-2"
     },
     "Epidendrum rigidum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951266",
+        "ipni_id": "urn:lsid:ipni.org:names:632657-1"
     },
     "Epidendrum scriptum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951363",
+        "ipni_id": "urn:lsid:ipni.org:names:300089-2"
     },
     "Epidendrum sculptum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951364",
+        "ipni_id": "urn:lsid:ipni.org:names:632726-1"
     },
     "Epidendrum secundum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951366",
+        "ipni_id": "urn:lsid:ipni.org:names:92159-2"
     },
     "Epidendrum stamfordianum": {
         "images": [
@@ -521,51 +613,63 @@
             "epidendrum_stamfordianum-6.jpg",
             "epidendrum_stamfordianum-7.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951451",
+        "ipni_id": "urn:lsid:ipni.org:names:323040-2"
     },
     "Epidendrum strobiliferum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000951476",
+        "ipni_id": "urn:lsid:ipni.org:names:92214-2"
     },
     "Epistephium ellipticum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000952430",
+        "ipni_id": "urn:lsid:ipni.org:names:92819-2"
     },
     "Eriopsis biloba": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000953730",
+        "ipni_id": "urn:lsid:ipni.org:names:327093-2"
     },
     "Eriopsis rutidobulbon": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000953736",
+        "ipni_id": "urn:lsid:ipni.org:names:634223-1"
     },
     "Erythrodes purpurea": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000954179",
+        "ipni_id": "urn:lsid:ipni.org:names:96770-2"
     },
     "Eulophia alta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000959647",
+        "ipni_id": "urn:lsid:ipni.org:names:99292-2"
     },
     "Eurystyles borealis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000965556",
+        "ipni_id": "urn:lsid:ipni.org:names:102301-2"
     },
     "Galeandra batemanii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000967760",
+        "ipni_id": "urn:lsid:ipni.org:names:106794-2"
     },
     "Galeottia grandiflora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000968102",
+        "ipni_id": "urn:lsid:ipni.org:names:635369-1"
     },
     "Gongora cassidea": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000974385",
+        "ipni_id": "urn:lsid:ipni.org:names:636001-1"
     },
     "Gongora truncata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000974465",
+        "ipni_id": "urn:lsid:ipni.org:names:636049-1"
     },
     "Gongora unicolor": {
         "images": [
@@ -574,239 +678,294 @@
             "gongora_unicolor-8.jpg",
             "gongora_unicolor-11.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000974467",
+        "ipni_id": "urn:lsid:ipni.org:names:112156-2"
     },
     "Goodyera erosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000974651",
+        "ipni_id": "urn:lsid:ipni.org:names:112567-2"
     },
     "Habenaria bacata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000433714",
+        "ipni_id": "urn:lsid:ipni.org:names:1018074-1"
     },
     "Habenaria brownelliana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000977273",
+        "ipni_id": "urn:lsid:ipni.org:names:277895-2"
     },
     "Habenaria distans": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000977512",
+        "ipni_id": "urn:lsid:ipni.org:names:323041-2"
     },
     "Habenaria entomantha": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000977575",
+        "ipni_id": "urn:lsid:ipni.org:names:1060316-2"
     },
     "Habenaria floribunda": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000977637",
+        "ipni_id": "urn:lsid:ipni.org:names:637263-1"
     },
     "Habenaria lankesteri": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000977946",
+        "ipni_id": "urn:lsid:ipni.org:names:116444-2"
     },
     "Habenaria mesodactyla": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000978142",
+        "ipni_id": "urn:lsid:ipni.org:names:637681-1"
     },
     "Habenaria monorrhiza": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Habenaria novemfida": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000978254",
+        "ipni_id": "urn:lsid:ipni.org:names:637781-1"
     },
     "Habenaria quinqueseta": {
         "images": [
             "habenaria_quinqueseta-25p.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000978505",
+        "ipni_id": "urn:lsid:ipni.org:names:60442665-2"
     },
     "Habenaria repens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000978533",
+        "ipni_id": "urn:lsid:ipni.org:names:323044-2"
     },
     "Habenaria rodeiensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000978565",
+        "ipni_id": "urn:lsid:ipni.org:names:638040-1"
     },
     "Habenaria trifida": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000978849",
+        "ipni_id": "urn:lsid:ipni.org:names:638286-1"
     },
     "Huntleya fasciata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000215693",
+        "ipni_id": "urn:lsid:ipni.org:names:124831-2"
     },
     "Ionopsis satyrioides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000217551",
+        "ipni_id": "urn:lsid:ipni.org:names:639197-1"
     },
     "Ionopsis utricularioides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000217555",
+        "ipni_id": "urn:lsid:ipni.org:names:1098007-2"
     },
     "Isochilus carnosiflorus": {
         "images": [
             "isochilus_carnosiflorus-1.jpg",
             "isochilus_carnosiflorus-4.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000217776",
+        "ipni_id": "urn:lsid:ipni.org:names:130421-2"
     },
     "Jacquiniella equitantifolia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000219165",
+        "ipni_id": "urn:lsid:ipni.org:names:131281-2"
     },
     "Jacquiniella globosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000219167",
+        "ipni_id": "urn:lsid:ipni.org:names:131282-2"
     },
     "Jacquiniella teretifolia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000219174",
+        "ipni_id": "urn:lsid:ipni.org:names:639319-1"
     },
     "Kegeliella atropilosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000220821",
+        "ipni_id": "urn:lsid:ipni.org:names:133378-2"
     },
     "Koellensteinia tricolor": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000221193",
+        "ipni_id": "urn:lsid:ipni.org:names:639514-1"
     },
     "Lacaena bicolor": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000221730",
+        "ipni_id": "urn:lsid:ipni.org:names:639538-1"
     },
     "Laelia inconspicua": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000222044",
+        "ipni_id": "urn:lsid:ipni.org:names:134683-2"
     },
     "Leochilus labiatus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001418320",
+        "ipni_id": "urn:lsid:ipni.org:names:1109519-2"
     },
     "Lepanthes acuminata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000224763",
+        "ipni_id": "urn:lsid:ipni.org:names:137399-2"
     },
     "Lepanthes arachnion": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000224807",
+        "ipni_id": "urn:lsid:ipni.org:names:930400-1"
     },
     "Lepanthes disticha": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000225064",
+        "ipni_id": "urn:lsid:ipni.org:names:137490-2"
     },
     "Lepanthes inaequalis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000225279",
+        "ipni_id": "urn:lsid:ipni.org:names:137562-2"
     },
     "Lepanthes johnsonii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000225315",
+        "ipni_id": "urn:lsid:ipni.org:names:137577-2"
     },
     "Lepanthes turialvae": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000225875",
+        "ipni_id": "urn:lsid:ipni.org:names:640218-1"
     },
     "Lepanthopsis floripecten": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000225978",
+        "ipni_id": "urn:lsid:ipni.org:names:640254-1"
     },
     "Leucohyle subulata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000227275",
+        "ipni_id": "urn:lsid:ipni.org:names:139158-2"
     },
     "Liparis elata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000228101",
+        "ipni_id": "urn:lsid:ipni.org:names:640852-1"
     },
     "Lockhartia hercodonta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000230501",
+        "ipni_id": "urn:lsid:ipni.org:names:142878-2"
     },
     "Lockhartia pittieri": {
         "images": [
             "lockhartia_pittieri-1.jpg",
             "lockhartia_pittieri-2.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000230527",
+        "ipni_id": "urn:lsid:ipni.org:names:142889-2"
     },
     "Lycaste aromatica": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000231210",
+        "ipni_id": "urn:lsid:ipni.org:names:641859-1"
     },
     "Lycaste cochleata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000231226",
+        "ipni_id": "urn:lsid:ipni.org:names:641874-1"
     },
     "Lycaste leucantha": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000231265",
+        "ipni_id": "urn:lsid:ipni.org:names:641904-1"
     },
     "Lycaste tricolor": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000231314",
+        "ipni_id": "urn:lsid:ipni.org:names:641938-1"
     },
     "Lyroglossa pubicaulis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000231592",
+        "ipni_id": "urn:lsid:ipni.org:names:910853-1"
     },
     "Macradenia brassavolae": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000232454",
+        "ipni_id": "urn:lsid:ipni.org:names:323051-2"
     },
     "Macroclinium paniculatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000232527",
+        "ipni_id": "urn:lsid:ipni.org:names:914192-1"
     },
     "Malaxis histionantha": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000233881",
+        "ipni_id": "urn:lsid:ipni.org:names:149799-2"
     },
     "Masdevallia adamsii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000236852",
+        "ipni_id": "urn:lsid:ipni.org:names:303756-2"
     },
     "Masdevallia floribunda": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000237162",
+        "ipni_id": "urn:lsid:ipni.org:names:323000-2"
     },
     "Masdevallia tubuliflora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000237756",
+        "ipni_id": "urn:lsid:ipni.org:names:154347-2"
     },
     "Maxillaria aciantha": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238123",
+        "ipni_id": "urn:lsid:ipni.org:names:643235-1"
     },
     "Maxillaria alba": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238140",
+        "ipni_id": "urn:lsid:ipni.org:names:643250-1"
     },
     "Maxillaria brunnea": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238230",
+        "ipni_id": "urn:lsid:ipni.org:names:322882-2"
     },
     "Maxillaria cobanensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238279",
+        "ipni_id": "urn:lsid:ipni.org:names:154998-2"
     },
     "Maxillaria conferta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238296",
+        "ipni_id": "urn:lsid:ipni.org:names:155010-2"
     },
     "Maxillaria confusa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238297",
+        "ipni_id": "urn:lsid:ipni.org:names:155011-2"
     },
     "Maxillaria crassifolia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238310",
+        "ipni_id": "urn:lsid:ipni.org:names:643387-1"
     },
     "Maxillaria cucullata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238320",
+        "ipni_id": "urn:lsid:ipni.org:names:643396-1"
     },
     "Maxillaria densa": {
         "images": [
@@ -814,41 +973,48 @@
             "maxillaria_densa-4.jpg",
             "maxillaria_densa-6.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238338",
+        "ipni_id": "urn:lsid:ipni.org:names:643407-1"
     },
     "Maxillaria discolor": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238350",
+        "ipni_id": "urn:lsid:ipni.org:names:643414-1"
     },
     "Maxillaria elatior": {
         "images": [
             "maxillaria_elatior-1.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238366",
+        "ipni_id": "urn:lsid:ipni.org:names:643425-1"
     },
     "Maxillaria friedrichsthalii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238400",
+        "ipni_id": "urn:lsid:ipni.org:names:323052-2"
     },
     "Maxillaria fulgens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238403",
+        "ipni_id": "urn:lsid:ipni.org:names:155059-2"
     },
     "Maxillaria hedwigae": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Maxillaria moralesii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238652",
+        "ipni_id": "urn:lsid:ipni.org:names:301429-2"
     },
     "Maxillaria pulchra": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238790",
+        "ipni_id": "urn:lsid:ipni.org:names:155245-2"
     },
     "Maxillaria ringens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238827",
+        "ipni_id": "urn:lsid:ipni.org:names:318680-2"
     },
     "Maxillaria rufescens": {
         "images": [
@@ -856,7 +1022,8 @@
             "maxillaria_rufescens-2.jpg",
             "maxillaria_rufescens-3.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238842",
+        "ipni_id": "urn:lsid:ipni.org:names:643781-1"
     },
     "Maxillaria tenuifolia": {
         "images": [
@@ -865,11 +1032,13 @@
             "maxillaria_tenuifolia-4.jpg",
             "maxillaria_tenuifolia-5.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238943",
+        "ipni_id": "urn:lsid:ipni.org:names:323053-2"
     },
     "Maxillaria uncata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000238985",
+        "ipni_id": "urn:lsid:ipni.org:names:155331-2"
     },
     "Maxillaria variabilis": {
         "images": [
@@ -878,39 +1047,48 @@
             "maxillaria_variabilis-6.jpg",
             "maxillaria_variabilis-7.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000239003",
+        "ipni_id": "urn:lsid:ipni.org:names:30044409-2"
     },
     "Mesadenella petenensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000241877",
+        "ipni_id": "urn:lsid:ipni.org:names:910888-1"
     },
     "Mesadenus polyanthus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000241887",
+        "ipni_id": "urn:lsid:ipni.org:names:157958-2"
     },
     "Mormodes buccinator": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000246165",
+        "ipni_id": "urn:lsid:ipni.org:names:644946-1"
     },
     "Mormodes lineata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000246205",
+        "ipni_id": "urn:lsid:ipni.org:names:644973-1"
     },
     "Mormolyca ringens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001088344",
+        "ipni_id": "urn:lsid:ipni.org:names:164412-2"
     },
     "Myoxanthus octomerioides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000247025",
+        "ipni_id": "urn:lsid:ipni.org:names:910936-1"
     },
     "Myrmecophila brysiana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000248324",
+        "ipni_id": "urn:lsid:ipni.org:names:645052-1"
     },
     "Myrmecophila christinae": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000248327",
+        "ipni_id": "urn:lsid:ipni.org:names:1020909-1"
     },
     "Myrmecophila tibicinis": {
         "images": [
@@ -920,15 +1098,18 @@
             "myrmecophila_tibicinis-11.jpg",
             "myrmecophila_tibicinis-12.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000248338",
+        "ipni_id": "urn:lsid:ipni.org:names:166411-2"
     },
     "Myrmecophila wendlandii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000248339",
+        "ipni_id": "urn:lsid:ipni.org:names:645061-1"
     },
     "Nidema boothii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000251852",
+        "ipni_id": "urn:lsid:ipni.org:names:169875-2"
     },
     "Notylia barkeri": {
         "images": [
@@ -937,23 +1118,28 @@
             "notylia_barkeri-3.jpg",
             "notylia_barkeri-4.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000252343",
+        "ipni_id": "urn:lsid:ipni.org:names:323059-2"
     },
     "Notylia wullschlaegeliana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000252449",
+        "ipni_id": "urn:lsid:ipni.org:names:645706-1"
     },
     "Octomeria graminifolia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000253746",
+        "ipni_id": "urn:lsid:ipni.org:names:646234-1"
     },
     "Oeceoclades maculata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000254506",
+        "ipni_id": "urn:lsid:ipni.org:names:1073117-2"
     },
     "Oerstedella verrucosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000254642",
+        "ipni_id": "urn:lsid:ipni.org:names:909273-1"
     },
     "Oncidium altissimum": {
         "images": [
@@ -962,7 +1148,8 @@
             "oncidium_altissimum-2.jpg",
             "oncidium_altissimum-3.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000255648",
+        "ipni_id": "urn:lsid:ipni.org:names:646828-1"
     },
     "Oncidium ascendens": {
         "images": [
@@ -970,27 +1157,33 @@
             "oncidium_ascendens-2.jpg",
             "oncidium_ascendens-3.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000255679",
+        "ipni_id": "urn:lsid:ipni.org:names:319312-2"
     },
     "Oncidium carthagenense": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000255775",
+        "ipni_id": "urn:lsid:ipni.org:names:646933-1"
     },
     "Oncidium cebolleta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000255783",
+        "ipni_id": "urn:lsid:ipni.org:names:1207036-2"
     },
     "Oncidium ensatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000255938",
+        "ipni_id": "urn:lsid:ipni.org:names:323061-2"
     },
     "Oncidium guttatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001418959",
+        "ipni_id": "urn:lsid:ipni.org:names:1178256-2"
     },
     "Oncidium lindenii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000256188",
+        "ipni_id": "urn:lsid:ipni.org:names:305620-2"
     },
     "Oncidium sphacelatum": {
         "images": [
@@ -999,83 +1192,101 @@
             "oncidium_sphacelatum-3.jpg",
             "oncidium_sphacelatum-4.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000256562",
+        "ipni_id": "urn:lsid:ipni.org:names:323062-2"
     },
     "Oncidium stipitatum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000256580",
+        "ipni_id": "urn:lsid:ipni.org:names:319316-2"
     },
     "Oncidium subcruciforme": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000256586",
+        "ipni_id": "urn:lsid:ipni.org:names:174319-2"
     },
     "Ornithocephalus bicornis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000260910",
+        "ipni_id": "urn:lsid:ipni.org:names:649424-1"
     },
     "Ornithocephalus gladiatus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000260941",
+        "ipni_id": "urn:lsid:ipni.org:names:649439-1"
     },
     "Pelexia  gutturosa": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Pelexia adnata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0001088496",
+        "ipni_id": "urn:lsid:ipni.org:names:649972-1"
     },
     "Pelexia callifera": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000266555",
+        "ipni_id": "urn:lsid:ipni.org:names:649983-1"
     },
     "Pelexia congesta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000266564",
+        "ipni_id": "urn:lsid:ipni.org:names:186702-2"
     },
     "Pelexia funckiana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000266582",
+        "ipni_id": "urn:lsid:ipni.org:names:650001-1"
     },
     "Pelexia olivacea": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000266632",
+        "ipni_id": "urn:lsid:ipni.org:names:650041-1"
     },
     "Pelexia richardiana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000266650",
+        "ipni_id": "urn:lsid:ipni.org:names:911053-1"
     },
     "Platystele compacta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000274995",
+        "ipni_id": "urn:lsid:ipni.org:names:201835-2"
     },
     "Platystele minimiflora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275037",
+        "ipni_id": "urn:lsid:ipni.org:names:201853-2"
     },
     "Platystele ovatilabia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275050",
+        "ipni_id": "urn:lsid:ipni.org:names:201858-2"
     },
     "Platystele oxyglossa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275051",
+        "ipni_id": "urn:lsid:ipni.org:names:201859-2"
     },
     "Platystele pedicellaris": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275053",
+        "ipni_id": "urn:lsid:ipni.org:names:201860-2"
     },
     "Platystele repens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275068",
+        "ipni_id": "urn:lsid:ipni.org:names:201866-2"
     },
     "Platystele stenostachya": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275080",
+        "ipni_id": "urn:lsid:ipni.org:names:201871-2"
     },
     "Platythelys maculata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275099",
+        "ipni_id": "urn:lsid:ipni.org:names:201956-2"
     },
     "Platythelys querceticola": {
         "images": [
@@ -1085,27 +1296,33 @@
             "platythelys_querceticola-4.jpg",
             "platythelys_querceticola-5.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000275105",
+        "ipni_id": "urn:lsid:ipni.org:names:201961-2"
     },
     "Pleurothallis abjecta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276569",
+        "ipni_id": "urn:lsid:ipni.org:names:202318-2"
     },
     "Pleurothallis angustifolia": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276652",
+        "ipni_id": "urn:lsid:ipni.org:names:652306-1"
     },
     "Pleurothallis angustisepala": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276657",
+        "ipni_id": "urn:lsid:ipni.org:names:202378-2"
     },
     "Pleurothallis barboselloides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276756",
+        "ipni_id": "urn:lsid:ipni.org:names:308845-2"
     },
     "Pleurothallis barbulata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276760",
+        "ipni_id": "urn:lsid:ipni.org:names:202448-2"
     },
     "Pleurothallis brighamii": {
         "images": [
@@ -1117,50 +1334,59 @@
             "pleurothallis_brighamii-8.jpg",
             "pleurothallis_brighamii-9.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276839",
+        "ipni_id": "urn:lsid:ipni.org:names:202497-2"
     },
     "Pleurothallis cardiothallis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276900",
+        "ipni_id": "urn:lsid:ipni.org:names:652484-1"
     },
     "Pleurothallis cobanensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000276988",
+        "ipni_id": "urn:lsid:ipni.org:names:202604-2"
     },
     "Pleurothallis convallaria": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277032",
+        "ipni_id": "urn:lsid:ipni.org:names:283300-2"
     },
     "Pleurothallis deregularis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277170",
+        "ipni_id": "urn:lsid:ipni.org:names:202720-2"
     },
     "Pleurothallis duplooyi": {
         "images": [
             "pleurothallis_duplooyi-1_2.jpg",
             "pleurothallis_duplooyi-2_25p.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277223",
+        "ipni_id": "urn:lsid:ipni.org:names:20000176-1"
     },
     "Pleurothallis erinacea": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277255",
+        "ipni_id": "urn:lsid:ipni.org:names:652721-1"
     },
     "Pleurothallis gelida": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277368",
+        "ipni_id": "urn:lsid:ipni.org:names:202845-2"
     },
     "Pleurothallis glandulosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277390",
+        "ipni_id": "urn:lsid:ipni.org:names:202858-2"
     },
     "Pleurothallis grobyi": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277429",
+        "ipni_id": "urn:lsid:ipni.org:names:202886-2"
     },
     "Pleurothallis homolantha": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Pleurothallis hondurensis": {
         "images": [
@@ -1170,98 +1396,117 @@
             "pleurothallis_hondurensis-6.jpg",
             "pleurothallis_hondurensis-8.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277507",
+        "ipni_id": "urn:lsid:ipni.org:names:202945-2"
     },
     "Pleurothallis johnsonii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277588",
+        "ipni_id": "urn:lsid:ipni.org:names:202996-2"
     },
     "Pleurothallis lewisae": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Pleurothallis matudana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277796",
+        "ipni_id": "urn:lsid:ipni.org:names:203140-2"
     },
     "Pleurothallis microphylla": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000277841",
+        "ipni_id": "urn:lsid:ipni.org:names:203168-2"
     },
     "Pleurothallis pansamalae": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278053",
+        "ipni_id": "urn:lsid:ipni.org:names:203296-2"
     },
     "Pleurothallis peperomioides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278111",
+        "ipni_id": "urn:lsid:ipni.org:names:203333-2"
     },
     "Pleurothallis quadrifida": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278270",
+        "ipni_id": "urn:lsid:ipni.org:names:653430-1"
     },
     "Pleurothallis sertularioides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278462",
+        "ipni_id": "urn:lsid:ipni.org:names:653571-1"
     },
     "Pleurothallis setosa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278465",
+        "ipni_id": "urn:lsid:ipni.org:names:299010-2"
     },
     "Pleurothallis tikalensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278639",
+        "ipni_id": "urn:lsid:ipni.org:names:203689-2"
     },
     "Pleurothallis tribuloides": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278665",
+        "ipni_id": "urn:lsid:ipni.org:names:1028036-2"
     },
     "Pleurothallis tuerckheimii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278715",
+        "ipni_id": "urn:lsid:ipni.org:names:203730-2"
     },
     "Pleurothallis uncinata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278725",
+        "ipni_id": "urn:lsid:ipni.org:names:283350-2"
     },
     "Pleurothallis yucatanensis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000278825",
+        "ipni_id": "urn:lsid:ipni.org:names:203809-2"
     },
     "Polystachya clavata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000280307",
+        "ipni_id": "urn:lsid:ipni.org:names:207885-2"
     },
     "Polystachya masasayensis": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Ponera striata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000280846",
+        "ipni_id": "urn:lsid:ipni.org:names:323064-2"
     },
     "Prescottia oligantha": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000282939",
+        "ipni_id": "urn:lsid:ipni.org:names:655007-1"
     },
     "Prescottia stachyodes": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000282961",
+        "ipni_id": "urn:lsid:ipni.org:names:1074522-2"
     },
     "Pseudogoodyera wrightii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000283997",
+        "ipni_id": "urn:lsid:ipni.org:names:211355-2"
     },
     "Psilochilus macrophyllus": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000284716",
+        "ipni_id": "urn:lsid:ipni.org:names:212066-2"
     },
     "Psygmorchis pusilla": {
         "images": [
             "psygmorchis_pusilla-1.jpg",
             "psygmorchis_pusilla-2.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000288223",
+        "ipni_id": "urn:lsid:ipni.org:names:213643-2"
     },
     "Restrepiella ophiocephala": {
         "images": [
@@ -1271,43 +1516,51 @@
             "restrepiella_ophiocephala-4.jpg",
             "restrepiella_ophiocephala-5.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000295718",
+        "ipni_id": "urn:lsid:ipni.org:names:218746-2"
     },
     "Rhyncholaelia digbyana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000296533",
+        "ipni_id": "urn:lsid:ipni.org:names:220014-2"
     },
     "Rhyncholaelia glauca": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000296535",
+        "ipni_id": "urn:lsid:ipni.org:names:220015-2"
     },
     "Sacolia lanceolata": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Sarcoglottis rosulata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000303753",
+        "ipni_id": "urn:lsid:ipni.org:names:227758-2"
     },
     "Sarcoglottis sceptrodes": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000303760",
+        "ipni_id": "urn:lsid:ipni.org:names:227761-2"
     },
     "Scaphosepalum microdactylum": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305277",
+        "ipni_id": "urn:lsid:ipni.org:names:228765-2"
     },
     "Scaphyglottis behrii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305325",
+        "ipni_id": "urn:lsid:ipni.org:names:1215022-2"
     },
     "Scaphyglottis confusa": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305344",
+        "ipni_id": "urn:lsid:ipni.org:names:228800-2"
     },
     "Scaphyglottis fasciculata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305358",
+        "ipni_id": "urn:lsid:ipni.org:names:657240-1"
     },
     "Scaphyglottis leucantha": {
         "images": [
@@ -1317,113 +1570,138 @@
             "scaphyglottis_leucantha-6.jpg",
             "scaphyglottis_leucantha-7.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305381",
+        "ipni_id": "urn:lsid:ipni.org:names:657260-1"
     },
     "Scaphyglottis lindeniana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305383",
+        "ipni_id": "urn:lsid:ipni.org:names:228819-2"
     },
     "Scaphyglottis longicaulis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305385",
+        "ipni_id": "urn:lsid:ipni.org:names:228821-2"
     },
     "Scaphyglottis minutiflora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305396",
+        "ipni_id": "urn:lsid:ipni.org:names:228827-2"
     },
     "Scaphyglottis prolifera": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000305410",
+        "ipni_id": "urn:lsid:ipni.org:names:228831-2"
     },
     "Scaphyglottis sp.": {
-        "images": [],
-        "synonyms": []
+        "images": []
     },
     "Sobralia decora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000311474",
+        "ipni_id": "urn:lsid:ipni.org:names:657877-1"
     },
     "Sobralia fragrans": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000311490",
+        "ipni_id": "urn:lsid:ipni.org:names:657888-1"
     },
     "Sobralia macrantha": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000311526",
+        "ipni_id": "urn:lsid:ipni.org:names:657914-1"
     },
     "Sobralia mucronata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000311537",
+        "ipni_id": "urn:lsid:ipni.org:names:238127-2"
     },
     "Specklinia alata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000554310",
+        "ipni_id": "urn:lsid:ipni.org:names:60426495-2"
     },
     "Specklinia picta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000555820",
+        "ipni_id": "urn:lsid:ipni.org:names:20004021-1"
     },
     "Spiranthes torta": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000313478",
+        "ipni_id": "urn:lsid:ipni.org:names:242811-2"
     },
     "Stanhopea ecornuta": {
         "images": [
             "stanhopea_ecornuta.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315077",
+        "ipni_id": "urn:lsid:ipni.org:names:330617-2"
     },
     "Stanhopea graveolens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315093",
+        "ipni_id": "urn:lsid:ipni.org:names:658559-1"
     },
     "Stanhopea inodora": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315109",
+        "ipni_id": "urn:lsid:ipni.org:names:330623-2"
     },
     "Stanhopea oculata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315133",
+        "ipni_id": "urn:lsid:ipni.org:names:658592-1"
     },
     "Stanhopea whittenii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000558195",
+        "ipni_id": "urn:lsid:ipni.org:names:60426740-2"
     },
     "Stelis bidentata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315335",
+        "ipni_id": "urn:lsid:ipni.org:names:243772-2"
     },
     "Stelis ciliaris": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315398",
+        "ipni_id": "urn:lsid:ipni.org:names:243808-2"
     },
     "Stelis gracilis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315541",
+        "ipni_id": "urn:lsid:ipni.org:names:243885-2"
     },
     "Stelis microchila": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315665",
+        "ipni_id": "urn:lsid:ipni.org:names:243953-2"
     },
     "Stelis oxypetala": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315734",
+        "ipni_id": "urn:lsid:ipni.org:names:243980-2"
     },
     "Stelis purpurascens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315816",
+        "ipni_id": "urn:lsid:ipni.org:names:320007-2"
     },
     "Stelis rubens": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000315849",
+        "ipni_id": "urn:lsid:ipni.org:names:244048-2"
     },
     "Teuscheria pickiana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000322747",
+        "ipni_id": "urn:lsid:ipni.org:names:252126-2"
     },
     "Trichopilia tortilis": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000327702",
+        "ipni_id": "urn:lsid:ipni.org:names:660624-1"
     },
     "Trichosalpinx blaisdellii": {
         "images": [
@@ -1431,44 +1709,53 @@
             "trichosalpinx_blaisdellii-2.jpg",
             "trichosalpinx_blaisdellii-3.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000327724",
+        "ipni_id": "urn:lsid:ipni.org:names:913471-1"
     },
     "Trichosalpinx ciliaris": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000327737",
+        "ipni_id": "urn:lsid:ipni.org:names:913480-1"
     },
     "Trichosalpinx foliata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000327765",
+        "ipni_id": "urn:lsid:ipni.org:names:913492-1"
     },
     "Trigonidium egertonianum": {
         "images": [
             "trigonidium_egertonianum-1.jpg",
             "trigonidium_egertonianum-2.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000328156",
+        "ipni_id": "urn:lsid:ipni.org:names:660788-1"
     },
     "Vanilla hartii": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000331476",
+        "ipni_id": "urn:lsid:ipni.org:names:262562-2"
     },
     "Vanilla odorata": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000331511",
+        "ipni_id": "urn:lsid:ipni.org:names:661231-1"
     },
     "Vanilla pfaviana": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000331525",
+        "ipni_id": "urn:lsid:ipni.org:names:661244-1"
     },
     "Vanilla planifolia": {
         "images": [
             "vanilla_planifolia-2.jpg",
             "vanilla_planifolia-3.jpg"
         ],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000331533",
+        "ipni_id": "urn:lsid:ipni.org:names:262578-2"
     },
     "Xylobium colleyi": {
         "images": [],
-        "synonyms": []
+        "wfo_taxon_id": "wfo-0000335018",
+        "ipni_id": "urn:lsid:ipni.org:names:269650-2"
     }
 }

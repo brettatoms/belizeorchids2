@@ -30,19 +30,29 @@
     {% for orchid in orchids %}
         <div x-data="{expanded: false}"
              class="mb-4">
-            {% if orchid['images'] | length %}
-            <button x-on:click="expanded = !expanded"
-                    class="flex hover:underline">
+            <div class="flex">
                 <span class="mr-2">{{ orchid['name'] }}</span>
-                    <img src="{{ url_for('static', filename='heroicons/camera-mini.svg') }}"
-                         class="inline"
-                         width=20
-                         height=20>
+                {% if orchid['images'] | length %}
+                    <button x-on:click="expanded = !expanded"
+                            class="flex hover:underline text-sky-600">
+                        <img src="{{ url_for('static', filename='heroicons/camera-mini.svg') }}"
+                            class="inline text-sky-600"
+                            width=20
+                            height=20>
+                    </button>
+                {% endif %}
+                {% if orchid['wfo_taxon_id'] %}
+                    <a class="text-sky-600 ml-2"
+                        href="https://wfoplantlist.org/plant-list/taxon/{{ orchid['wfo_taxon_id'] }}-2023-06"
+                    >wfo</a>
+                {% endif %}
+                {% if orchid['ipni_id'] %}
+                    <a class="text-sky-600 ml-2"
+                        href="https://www.ipni.org/n/{{ orchid['ipni_id'] }}"
+                    >ipni</a>
+                {% endif %}
 
-            {% else %}
-                    <span class="mr-2">{{ orchid['name'] }}</span>
-            {% endif %}
-            </button>
+            </div>
             <div x-show="expanded"
                  x-cloak
                  class="mt-4 bg-slate-100 sm:p-4 lg:p-12 rounded flex flex-wrap">

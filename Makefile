@@ -1,4 +1,4 @@
-all: belizeorchids/templates/index.html belizeorchids/static/style.css venv
+all: build
 
 belizeorchids/static/style.css: tailwind.config.js ./belizeorchids/input.css belizeorchids/templates/index.html
 	npx tailwindcss -i ./belizeorchids/input.css -o ./belizeorchids/static/style.css --minify
@@ -15,4 +15,10 @@ venv: requirements.txt
 	pip install -r requirements.txt
 	touch $@ # update timestamp in case the folder already existed
 
-.PHONY: all
+build: node_modules venv belizeorchids/static/style.css
+	flask digest compile
+
+deploy: build
+	gcloud run deploy belizeorchids --source .
+
+.PHONY: all build deploy
