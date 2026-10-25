@@ -1,0 +1,14 @@
+[project]
+name = "belizeorchids"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.3",
+    "flask-static-digest>=0.4.1",
+    "gunicorn>=26.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "black>=26.10.1",
+]

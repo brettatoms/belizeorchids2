@@ -10,6 +10,7 @@ htmlcov
 
 .envrc
 venv/
+.venv/
 
 node_modules
 

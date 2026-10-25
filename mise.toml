@@ -1,0 +1,6 @@
+[tools]
+uv = "latest"
+flyctl = "latest"
+
+[env]
+FLASK_APP = "belizeorchids.app"

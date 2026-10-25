@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="" class="h-full">
+<html class="no-js" lang="">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -13,7 +13,7 @@
     <link href="{{ static_url_for('static', filename='style.css') }}" rel="stylesheet">
     <script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body class="h-full m-4">
+<body>
     <!--[if lt IE 8]>
             <p class="browserupgrade">
             You are using an <strong>outdated</strong> browser. Please
@@ -22,43 +22,39 @@
             </p>
         <![endif]-->
 
-    <h1 class="text-2xl mb-4">Orchids of Belize</h1>
+    <h1>Orchids of Belize</h1>
 
-    <form class="mb-4">
+    <form class="search">
         <input name="q" type="search" placeholder="Search...">
     </form>
 
     {% for orchid in orchids %}
         <div x-data="{expanded: false}"
-             class="mb-4">
-            <div class="flex">
-                <span class="mr-2">{{ orchid['name'] }}</span>
+             class="orchid">
+            <div class="orchid-row">
+                <span class="name">{{ orchid['name'] }}</span>
                 {% if orchid['images'] | length %}
-                    <button x-on:click="expanded = !expanded"
-                            class="flex hover:underline text-sky-600">
+                    <button x-on:click="expanded = !expanded">
                         <img src="{{ url_for('static', filename='heroicons/camera-mini.svg') }}"
-                            class="inline text-sky-600"
                             width=20
                             height=20>
                     </button>
                 {% endif %}
                 {% if orchid['wfo_taxon_id'] %}
-                    <a class="text-sky-600 ml-2"
-                        href="https://wfoplantlist.org/plant-list/taxon/{{ orchid['wfo_taxon_id'] }}-2023-06"
+                    <a href="https://wfoplantlist.org/plant-list/taxon/{{ orchid['wfo_taxon_id'] }}-2023-06"
                     >wfo</a>
                 {% endif %}
                 {% if orchid['ipni_id'] %}
-                    <a class="text-sky-600 ml-2"
-                        href="https://www.ipni.org/n/{{ orchid['ipni_id'] }}"
+                    <a href="https://www.ipni.org/n/{{ orchid['ipni_id'] }}"
                     >ipni</a>
                 {% endif %}
 
             </div>
             <div x-show="expanded"
                  x-cloak
-                 class="mt-4 bg-slate-100 sm:p-4 lg:p-12 rounded flex flex-wrap">
+                 class="gallery">
                 {% for url in orchid['images'] %}
-                    <div class="drop-shadow-lg m-4">
+                    <div>
                         <img src="{{thumb_root}}{{url}}"
                              alt="{{orchid['name']}}"
                              loading="lazy">

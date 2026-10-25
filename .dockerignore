@@ -1,0 +1,10 @@
+.git
+.venv
+venv
+node_modules
+**/__pycache__
+
+# digest files are generated inside the image
+belizeorchids/static/**/*-[0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f].*
+belizeorchids/static/**/*.gz
+belizeorchids/static/cache_manifest.json
